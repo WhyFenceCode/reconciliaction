@@ -72,7 +72,7 @@ export default async function Page({
           <ThemeIcon />
           <div className='grow'></div>
           <Button size="lg" asChild>
-            <Link href="/"> <ChevronsRight /> To Article </Link>
+            <Link href="/"> <ChevronsRight /> Home </Link>
           </Button>
         </footer>
       </div>
@@ -103,7 +103,7 @@ export default async function Page({
 
         <main className="flex-grow flex items-center justify-center">
             <div className="w-full sm:max-w-[70%] max-h-[90%] max-w-[90%] flex items-center justify-center flex-col sm:flex-row">
-              <Card className="sm:w-[30%] m-2">
+              <Card className="sm:w-[32%] w-[90%] m-2">
                 <CardHeader>
                   <CardTitle>Question One</CardTitle>
                 </CardHeader>
@@ -111,7 +111,7 @@ export default async function Page({
                   <h1>{questionOne}</h1>
                 </CardContent>
               </Card>
-              <Card className="sm:w-[30%] m-2">
+              <Card className="sm:w-[32%] w-[90%] m-2">
                 <CardHeader>
                   <CardTitle>Question Two</CardTitle>
                 </CardHeader>
@@ -119,7 +119,7 @@ export default async function Page({
                   <h1>{questionTwo}</h1>
                 </CardContent>
               </Card>
-              <Card className="sm:w-[30%] m-2">
+              <Card className="sm:w-[32%] w-[90%] m-2">
                 <CardHeader>
                   <CardTitle>Question Three</CardTitle>
                 </CardHeader>
@@ -134,7 +134,7 @@ export default async function Page({
           <ThemeIcon />
           <div className='grow'></div>
           <Button size="lg" asChild>
-            <Link href={articleUrl}> <ChevronsRight /> Home </Link>
+            <Link href={articleUrl}> <ChevronsRight /> To Article </Link>
           </Button>
         </footer>
       </div>
