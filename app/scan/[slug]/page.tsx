@@ -134,7 +134,7 @@ export default async function Page({
           <ThemeIcon />
           <div className='grow'></div>
           <Button size="lg" asChild>
-            <Link href={articleUrl}> <ChevronsRight /> To Article </Link>
+            <Link href={articleUrl} rel="noopener noreferrer" target="_blank"> <ChevronsRight /> To Article </Link>
           </Button>
         </footer>
       </div>

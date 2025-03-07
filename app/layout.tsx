@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const font = Baloo_Bhai_2({ subsets: ['latin'], weight: ['400'] });
 
 export const metadata: Metadata = {
-  title: "Churchill ReconciliAction",
+  title: "Exploring Indigenous Culture",
   description: "A Contemperery Indigenous Studies Project",
 };
 
