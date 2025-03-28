@@ -23,4 +23,16 @@ export const articles: Record<number, { url: string; questionOne: string; questi
         questionTwo: "Why does the conservative party call this \"fear mongering\"?",
         questionThree: "Why, does Terry Teegee argue that the proposed amendment is not \"fear mongering\"",
     },
+    0o4: {
+        url: "https://engage.gov.bc.ca/govtogetherbc/engagement/komoks-treaty/",
+        questionOne: "Who are the K’ómoks First Nations and where are they located?",
+        questionTwo: "How is a \"fair\" election being ensured?",
+        questionThree: "What are \"modern treaties\"?",
+    },
+    0o5: {
+        url: "https://hashilthsa.com/news/2025-01-27/usma-among-six-named-2024-bc-reconciliation-awards",
+        questionOne: "What are the reconcilliation awards?",
+        questionTwo: "How has reconciliation evolved over the years?",
+        questionThree: "What is the impact of giving out an award like this?",
+    },
 }
