@@ -53,4 +53,16 @@ export const articles: Record<number, { url: string; questionOne: string; questi
         questionTwo: "Only around 3% of artists are Indigenous peoples. How can there be more representation and diversity in art?",
         questionThree: "How have Indigenous traditions been passed down? (Use examples from the news article, as well as any of your own.)",
     },
+    1009: {
+        url: "https://www.canada.ca/en/prairies-economic-development/services/indigenous/national-indigenous-languages-day.html",
+        questionOne: "What is the significance of National Indigenous Languages Day?",
+        questionTwo: "How many distinct Indigenous languages are spoken in Canada?",
+        questionThree: "Why is it important to preserve and promote these languages?",
+    },
+    1010: {
+        url: "https://www.cbc.ca/news/canada/british-columbia/haida-gwaii-aboriginal-title-federal-agreement-1.7461151",
+        questionOne: "Where and what is Haida Gwaii?",
+        questionTwo: "Was the federal government the first governement to recognize this land?",
+        questionThree: "What does this agreement do for Haida Gwaii",
+    },
 }
