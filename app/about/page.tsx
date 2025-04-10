@@ -49,7 +49,7 @@ export default async function Page({
 
         <main className="flex-grow flex items-center justify-center">
             <div className="w-full sm:max-w-[70%] max-h-[90%] max-w-[90%] flex items-center justify-center flex-col sm:flex-row">
-              <Card className="sm:w-[32%] w-[90%] m-2">
+              <Card className="sm:w-[60%] w-[90%] m-2 pt-6">
                 <CardContent>
                   <h1>
                     Welcome to {homepage_app_blocks.landingText}! We are a group of students focused on tackling Indigenous issues regarding education by fostersing genuine empathy. We have built a webiste that poses guiding questions surrounding topics and curated articles as a way to build engagment. Enjoy!
