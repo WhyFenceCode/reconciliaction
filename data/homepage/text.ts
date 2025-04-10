@@ -9,11 +9,11 @@ export const articles: Record<number, { url: string; questionOne: string; questi
         url: "https://www.statcan.gc.ca/o1/en/plus/7072-national-day-truth-and-reconciliation-time-remember-reflect-and-learn",
         questionOne: "What forms of racism continue towards indigenous people in this day and age?",
         questionTwo: "In what ways are indigenous people under or over represented?",
-        questionThree: "What trends are noticable in indigenous cultures?",
+        questionThree: "What trends are noticeable in indigenous cultures?",
     },
     1002: {
         url: "https://globalnews.ca/news/10785147/bc-conservatives-undrip-repeal-indigenous-rights-law-john-rustad",
-        questionOne: "What us UNDRIP and why is it an important part of the rights of indigenous people?",
+        questionOne: "What is UNDRIP and why is it an important part of the rights of indigenous people?",
         questionTwo: "Why do the indigenous people want or not want the government to do?",
         questionThree: "Using what process are the indigenous people reclaiming their rights?",
     },
@@ -21,7 +21,7 @@ export const articles: Record<number, { url: string; questionOne: string; questi
         url: "https://www.cbc.ca/news/indigenous/b-c-land-act-dripa-1.7112974",
         questionOne: "What powers do the proposed amendment give indigenous peoples?",
         questionTwo: "Why does the conservative party call this \"fear mongering\"?",
-        questionThree: "Why, does Terry Teegee argue that the proposed amendment is not \"fear mongering\"",
+        questionThree: "Why does Terry Teegee argue that the proposed amendment is not \"fear mongering\"?",
     },
     1004: {
         url: "https://engage.gov.bc.ca/govtogetherbc/engagement/komoks-treaty/",
@@ -31,7 +31,7 @@ export const articles: Record<number, { url: string; questionOne: string; questi
     },
     1005: {
         url: "https://hashilthsa.com/news/2025-01-27/usma-among-six-named-2024-bc-reconciliation-awards",
-        questionOne: "What are the reconcilliation awards?",
+        questionOne: "What are the reconciliation awards?",
         questionTwo: "How has reconciliation evolved over the years?",
         questionThree: "What is the impact of giving out an award like this?",
     },
@@ -44,7 +44,7 @@ export const articles: Record<number, { url: string; questionOne: string; questi
     1007: {
         url: "https://www.cbc.ca/news/canada/kitchener-waterloo/painting-with-clay-1.7455516",
         questionOne: "How can the inequalities in the healthcare system be addressed and acted upon by the government?",
-        questionTwo: "How does racism and inequality affect still affect Indigenous peoples to this day?",
+        questionTwo: "How does racism and inequality still affect Indigenous peoples to this day?",
         questionThree: "\"There is too much discussion [in the Federal Government] about what to do and few tangible results.\" Why do you think this is the case?",
     },
     1008: {
@@ -62,7 +62,7 @@ export const articles: Record<number, { url: string; questionOne: string; questi
     1010: {
         url: "https://www.cbc.ca/news/canada/british-columbia/haida-gwaii-aboriginal-title-federal-agreement-1.7461151",
         questionOne: "Where and what is Haida Gwaii?",
-        questionTwo: "Was the federal government the first governement to recognize this land?",
+        questionTwo: "Was the federal government the first government to recognize this land?",
         questionThree: "What does this agreement do for Haida Gwaii",
     },
 }
