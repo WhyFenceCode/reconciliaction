@@ -21,7 +21,7 @@ export default function Home() {
         <h1 className="text-3xl sm:text-6xl font-extrabold mb-4 max-w-6xl text-foreground leading-loose">{homepage_app_blocks.landingText}</h1>
         <p className="text-xl sm:text-3xl mb-8 max-w-3xl text-muted-foreground">{homepage_app_blocks.landingSubText}</p>
         <Button size="lg" asChild>
-          <Link href="#"> <ChevronsRight /> Learn More </Link>
+          <Link href="/about"> <ChevronsRight /> Learn More </Link>
         </Button>
       </main>
 
