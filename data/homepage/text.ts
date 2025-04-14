@@ -1,7 +1,7 @@
 export const homepage_app_blocks = {
     app: "Exploring Indigenous Culture",
     landingText: "Exploring Indigenous Culture",
-    landingSubText: "Quentin, Cat, Trina, Torsten",
+    landingSubText: "Quentin, Caitlin, Trina, Torsten",
 }
 
 export const articles: Record<number, { url: string; questionOne: string; questionTwo: string; questionThree: string; }> = {
