@@ -42,7 +42,7 @@ export const articles: Record<number, { url: string; questionOne: string; questi
         questionThree: "In what way has this news article broadened your perspective on the Indigenous and government relations?",
     },
     1007: {
-        url: "https://www.cbc.ca/news/canada/kitchener-waterloo/painting-with-clay-1.7455516",
+        url: "https://indiginews.com/features/truth-and-reconciliation-inside-canadas-healthcare-system",
         questionOne: "How can the inequalities in the healthcare system be addressed and acted upon by the government?",
         questionTwo: "How does racism and inequality still affect Indigenous peoples to this day?",
         questionThree: "\"There is too much discussion [in the Federal Government] about what to do and few tangible results.\" Why do you think this is the case?",
