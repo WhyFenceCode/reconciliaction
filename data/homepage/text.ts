@@ -54,10 +54,10 @@ export const articles: Record<number, { url: string; questionOne: string; questi
         questionThree: "How have Indigenous traditions been passed down? (Use examples from the news article, as well as any of your own.)",
     },
     1009: {
-        url: "https://www.canada.ca/en/prairies-economic-development/services/Indigenous/national-Indigenous-languages-day.html",
-        questionOne: "What is the significance of National Indigenous Languages Day?",
-        questionTwo: "How many distinct Indigenous languages are spoken in Canada?",
-        questionThree: "Why is it important to preserve and promote these languages?",
+        url: "https://www.cbc.ca/news/indigenous/trudeau-indigenous-promises-reconciliation-1.7476818",
+        questionOne: "Why was reconciliation a campaign issue in 2015?",
+        questionTwo: "What did the Trudeau government implement in regards to the Indigenous and why?",
+        questionThree: "Why does Katherine Koostachin say 'You're doing this for Indigenous children'?",
     },
     1010: {
         url: "https://www.cbc.ca/news/canada/british-columbia/haida-gwaii-aboriginal-title-federal-agreement-1.7461151",
